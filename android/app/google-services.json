@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "743261276546",
+    "project_id": "nerdbug-a0f91",
+    "storage_bucket": "nerdbug-a0f91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743261276546:android:eae4cdf78bc0c9c351279b",
+        "android_client_info": {
+          "package_name": "com.example.nerdbug_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvxLpcoVbqbq8rJf6FNymCamjm30xUTLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
